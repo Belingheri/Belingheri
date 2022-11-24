@@ -7,8 +7,8 @@ Follow on [<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" w
 ### Stats, Technologies & Tools
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belingheri&theme=blue-green)](https://github.com/belingheri)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=belingheri&line_height=31.5&theme=blue-green&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/belingheri)
+![Belingheri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belingheri&show_icons=true&count_private=true&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belingheri&layout=compact&theme=transparent&hide=g-code)](https://github.com/Belingheri)
 
 ### Repo
 
