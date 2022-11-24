@@ -7,7 +7,7 @@ Follow on [<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" w
 ### Stats, Technologies & Tools
 
 
-![Belingheri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belingheri&show_icons=true&count_private=true&show_icons=true&theme=transparent)
+[![Belingheri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belingheri&show_icons=true&count_private=true&show_icons=true&theme=transparent)](https://github.com/Belingheri)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Belingheri&layout=compact&theme=transparent&hide=g-code)](https://github.com/Belingheri)
 
 ### Repo
