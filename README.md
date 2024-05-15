@@ -1,6 +1,6 @@
-### Hello, this is Belingheri! 👋
+### Hello There, this is Belingheri! 👋
 
-Amo l'informatica in generale e le potenzialita' che offre, questo mi porta a programmare anche in parte del mio tempo libero
+I love computer science in general and the potential it offers, which leads me to program even in some of my free time.
 
 Follow on [<img src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" width="40" height="40">](https://www.linkedin.com/in/riccardo-belingheri/)
 
